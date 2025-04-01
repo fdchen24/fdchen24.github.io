@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AIGC Researcher
+subtitle: CV | AIGC
 
 profile:
   align: right
