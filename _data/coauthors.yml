@@ -1,6 +1,6 @@
 "lan":
   - firstname: ["Long", "L."]
-    url: https://lan-long.github.io/index.html
+    url: https://scholar.google.com/citations?user=huVW6Y8AAAAJ
 
 "zhao":
   - firstname: ["Shanshan"]
@@ -13,3 +13,12 @@
 "tang":
   - firstname: ["Jintao"]
     url: https://scholar.google.com/citations?user=1-7_0p8AAAAJ
+
+
+"yang":
+  - firstname: ["longrong"]
+    url: https://longrongyang.github.io/yanglongrong.github.io/
+  
+"luo":
+  - firstname: ["zhigang"]
+    url: https://scholar.google.com/citations?user=fxUpaiMAAAAJ
