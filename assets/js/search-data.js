@@ -188,17 +188,6 @@ ninja.data = [{
             window.location.href = "/sample-posts/2023/07/04/jupyter-notebook.html";
           
         },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/sample-posts/2023/05/12/custom-blockquotes.html";
-          
-        },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
         
           title: "a post with table of contents on a sidebar",
@@ -366,6 +355,9 @@ ninja.data = [{
         },
       },{id: "news-the-homepage-publicly-available",
           title: 'The homepage publicly available.',
+          description: "",
+          section: "News",},{id: "news-great-news-our-paper-swgcn-has-been-accepted-for-publication-in-information-sciences",
+          title: 'Great news! Our paper “SWGCN” has been accepted for publication in Information Sciences....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
