@@ -24,4 +24,4 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I am a second-year PhD candidate at National University of Defense Technology, advised by Associate Prof. [Long Lan](https://lan-long.github.io/index.html). I am working on **Computer Vision** and **AIGC**.
+Greetings! I am a second-year PhD candidate at National University of Defense Technology, advised by Associate Prof. [Long Lan](https://scholar.google.com/citations?user=huVW6Y8AAAAJ). I am working on **Computer Vision** and **AIGC**.
